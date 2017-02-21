@@ -1,0 +1,87 @@
+ body{background-color: #F8F8FF;
+      margin: 0px;
+      overflow-x: hidden;
+    
+      }  
+
+header{ background-image: url(../images/IMG_2927.JPG);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     height: 600px; 
+     margin: 0px;
+     }
+
+  h1{font-family: 'Cormorant Unicase', serif;
+   font-weight: bold;
+   font-size: 120px;
+   line-height: 1.00;
+   color:black;
+   text-shadow: 2px 2px #ff0000;
+   margin-top: -10px; 
+   padding-left: 150px;
+   }
+
+h2{font-family: 'Roboto', sans-serif;
+   font-weight: normal;
+   font-size: 12px; 
+   color:black;
+   padding-left: 150px;
+   margin-top: -20px;
+    }
+
+h3{font-family: 'Roboto', sans-serif;
+   font-weight: bold;
+   font-size: 15px;
+  color:black;
+  padding: 10px 150px 10px 150px;
+  margin-top: -80px;
+  } 
+   
+
+ p{font-family: 'Roboto', sans-serif;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 1.25;
+   color: black;}  
+
+img{ width: 650px;
+    height: auto;
+   }  
+
+.body-text{ margin: 40px auto;
+}
+ 
+section, 
+footer {
+  padding: 25px 300px 25px 300px;
+  margin:0px;} 
+
+.socialmedia img{ width: 50px;
+                      height: auto; } 
+.tintup{ margin:15px 100px 15px -120px;}
+
+.video{  padding: 0px 100px 25px 150px;
+  margin:0px;
+  } 
+.last{padding: 0px 100px 25px 150px;} 
+
+.photos1{ background-color:  #993333; }
+.photos2{ background-color:  #993333; }
+.photos3{ background-color:  #993333; }
+
+p a { font-weight: bold;
+        color: purple; } 
+
+ p a:hover{ color: red; 
+              font-size: 20px;}
+
+
+
+footer{text-align: center;}
+
+ 
+
+
+
+
